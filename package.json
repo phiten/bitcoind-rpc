@@ -1,5 +1,5 @@
 {
-  "name": "bitcoind-rpc",
+  "name": "veriumd-rpc",
   "description": "Bitcoin Client Library to connect to Bitcoin Core via RPC",
   "version": "0.7.1",
   "author": {
@@ -25,12 +25,12 @@
     }
   ],
   "keywords": [
-    "bitcoin",
+    "verium",
     "rpc"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcoind-rpc"
+    "url": "https://github.com/phiten/veriumd-rpc"
   },
   "license": "MIT",
   "main": "lib/index.js",
@@ -47,7 +47,7 @@
     "sinon": "^1.12.2"
   },
   "bugs": {
-    "url": "https://github.com/bitpay/bitcoind-rpc/issues"
+    "url": "https://github.com/phiten/veriumd-rpc/issues"
   },
-  "homepage": "https://github.com/bitpay/bitcoind-rpc"
+  "homepage": "https://github.com/phiten/verium-rpc"
 }
